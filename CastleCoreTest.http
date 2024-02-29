@@ -1,0 +1,6 @@
+@CastleCoreTest_HostAddress = http://localhost:5115
+
+GET {{CastleCoreTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
