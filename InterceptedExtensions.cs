@@ -1,4 +1,5 @@
 ﻿using Castle.DynamicProxy;
+using Castle.Core.Logging;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 
 namespace CastleCoreTest

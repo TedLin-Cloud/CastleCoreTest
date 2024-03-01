@@ -12,6 +12,11 @@
     <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="9.0.0" />
     <PackageReference Include="Autofac.Extras.DynamicProxy" Version="7.1.0" />
     <PackageReference Include="Castle.Core" Version="5.1.1" />
+    <PackageReference Include="Castle.Core-Serilog" Version="5.1.1" />
+    <PackageReference Include="Castle.Facilities.AspNetCore" Version="6.0.0" />
+    <PackageReference Include="Castle.LoggingFacility" Version="6.0.0" />
+    <PackageReference Include="Castle.Windsor" Version="6.0.0" />
+    <PackageReference Include="Castle.Windsor.MsDependencyInjection" Version="4.1.0" />
     <PackageReference Include="Serilog.AspNetCore" Version="8.0.1" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
